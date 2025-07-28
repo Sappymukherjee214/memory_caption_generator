@@ -1,6 +1,6 @@
-streamlit
-pillow
-torch
-transformers
-python-dotenv
-google-generativeai
+streamlit==1.36.0
+pillow==10.4.0
+torch==2.2.0
+transformers==4.41.0
+python-dotenv==1.0.1
+google-generativeai==0.3.0
